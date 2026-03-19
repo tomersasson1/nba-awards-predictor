@@ -13,9 +13,8 @@ An end-to-end ML pipeline that ingests 30 years of NBA data, engineers 47 featur
 
 ## Results
 
-![Dashboard screenshot placeholder](docs/dashboard_screenshot.png)
-
-> **Add a screenshot here:** Run `python -m src.dashboard.app`, open http://127.0.0.1:8050/, click the "2025-26 Predictions" tab, take a screenshot, and save it as `docs/dashboard_screenshot.png` (create the `docs/` folder if needed).
+> **Add a screenshot (recommended):** Run `python -m src.dashboard.app`, open http://127.0.0.1:8050/, go to "2025-26 Predictions", take a screenshot, save as `docs/dashboard_screenshot.png`, then add below:  
+> `![Dashboard](docs/dashboard_screenshot.png)`
 
 ---
 
