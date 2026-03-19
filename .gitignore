@@ -1,0 +1,9 @@
+.venv/
+/data/
+/models/
+__pycache__/
+*.pyc
+.env
+*.db
+*.har
+response_html_table.html
