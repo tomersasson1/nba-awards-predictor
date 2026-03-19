@@ -7,6 +7,7 @@
 - [ ] Pin both projects on profile
 - [ ] Fill bio: e.g. "Data Science student | Python, ML, PyTorch"
 
-**Topics**
-- NBA: `machine-learning`, `pytorch`, `nba`, `data-science`, `web-scraping`, `plotly-dash`, `python`
-- CineMatch: `machine-learning`, `recommendation-system`, `collaborative-filtering`, `streamlit`, `python`, `data-science`
+**Topics & description**
+- On each repo, click the gear icon next to **About**.
+- **CineMatch description:** `Movie & TV recommendation system with collaborative filtering, content-based models, and Streamlit UI` (fixes "Recommandation" typo).
+- **Topics:** NBA — `machine-learning`, `pytorch`, `nba`, `data-science`, `web-scraping`, `plotly-dash`, `python`. CineMatch — `machine-learning`, `recommendation-system`, `collaborative-filtering`, `streamlit`, `python`, `data-science`.
