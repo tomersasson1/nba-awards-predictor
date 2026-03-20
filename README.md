@@ -13,7 +13,9 @@ I built this project to predict NBA individual award voting using 30 years of pl
 
 ## Results
 
-> *Add a screenshot:* Run `python -m src.dashboard.app`, open http://127.0.0.1:8050/, go to "2025-26 Predictions", take a screenshot, save as `docs/dashboard_screenshot.png`, then add: `![Dashboard](docs/dashboard_screenshot.png)`
+Live **2025-26 Predictions** tab (MVP example): interactive rankings, vote share chart, and candidate stats.
+
+![NBA Awards Predictor dashboard — 2025-26 MVP predictions](docs/dashboard_screenshot.png)
 
 ---
 
